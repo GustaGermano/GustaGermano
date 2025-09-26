@@ -1,5 +1,4 @@
 # Gustavo Lopes Germano
-- **20 anos.**
 - **Front-end | Suporte de TI | Professor**
 - **ADS - UniCesumar. (2023/2025)**
 
