@@ -17,8 +17,7 @@
 ![GustaGermano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaGermano&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## Sobre mim
-Sou apaixonado por tecnologia e desenvolvimento web, com experiência em JavaScript, HTML, CSS e React. Gosto de transformar ideias em interfaces funcionais e bem pensadas, sempre buscando unir usabilidade e qualidade no que entrego.
+Sou desenvolvedor web, com experiência em JavaScript, HTML/CSS, UX/UI e React, criando interfaces responsivas que unem usabilidade, qualidade e metodologias ágeis.
+Atuo também como professor de informática e TI, experiência que me deu prática em explicar soluções de forma clara e colaborar em diferentes contextos, o que enriquece minha atuação como desenvolvedor.
 
-Além da parte técnica, tenho perfil comunicativo e gosto de compartilhar conhecimento, o que me levou também a atuar como professor. Essa vivência me ajuda a trabalhar em equipe, ouvir diferentes perspectivas e explicar soluções de forma clara.
-
-Estou em busca de oportunidades para crescer como desenvolvedor front-end, contribuir em projetos inovadores e continuar aprendendo todos os dias.
+Tenho base sólida em desenvolvimento front-end, com experiência em aplicações web, consumo de APIs REST, versionamento com Git/GitHub e práticas de clean code. Sigo aprimorando minhas habilidades para contribuir em projetos inovadores e evoluir continuamente na carreira.
